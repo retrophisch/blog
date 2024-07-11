@@ -24,6 +24,17 @@
 	
 	  <div class="h-entry">
 		
+
+		<a href="https://retrophisch.net/2024/07/07/im-somewhere-between.html" class="u-url"><time class="dt-published" datetime="2024-07-07 14:33:55 -0500">Jul 7, 2024</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;m somewhere between a third and halfway through Rob Kroese&rsquo;s &ldquo;<a href="http://www.amazon.com/dp/B0D2CQYPVT/retrophisch-20">A Grift Too Far</a>,&rdquo; and if this thing wasn&rsquo;t already off the rails in the first 20 pages, it most certainly is now. 📚🤣</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://retrophisch.net/2024/06/29/on-friction-and.html">On friction, and ownership</a></h1>
 		
 
@@ -51207,7 +51218,6 @@ Every one.</p>
 <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
 
 		</div>
 	  </div>
@@ -89347,6 +89357,145 @@ Further blogging at digitalpembroke.com is now suspended. That site will be unde
     
     <center>
 <p><a href="https://micro.blog/retrophisch"><i class="fa-brands fa-microblog"></i></a><a href="https://www.onebighappyhome.com/podcast/" alt="The Empowered Parent Podcast"><i class="fa-solid fa-microphone-lines"></i></a><a href="https://retrophisch.social/@chris"><i class="fa-brands fa-mastodon"></i></a><a href="https://x.com/retrophisch"><i class="fa-brands fa-x-twitter"></i></a><a href="https://www.flickr.com/photos/retrophisch/" alt="Flickr"><i class="fa-brands fa-flickr"></i></a><a href="https://instagram.com/retrophisch"><i class="fa-brands fa-instagram"></i></a><a href="https://retrophisch.net/feed.xml" alt="RSS feed"><i class="fa-solid fa-square-rss"></i></a><a href="https://retrophisch.net/search/" alt="Search"><i class="fa-solid fa-magnifying-glass"></i></a></p>
+<p><script language="javascript">
+
+    var archive_results = {};
+    
+            function runSearch(q) {
+                var results_node = document.getElementById("list_results");
+                results_node.innerHTML = "";
+    
+                if (q.length > 0) {
+                    var resultsFound = false; 
+                    var resultCount = 0; 
+    
+                    for (var i = 0; i < archive_results.items.length; i++) {
+                        var item = archive_results.items[i];
+                        var title_lower = item.title.toLowerCase();
+                        var text_lower = item.content_text.toLowerCase();
+    
+                        if (title_lower.includes(q) || text_lower.includes(q)) {
+                            var p_node = document.createElement("p");
+                            var link_node = document.createElement("a");
+                            var d = Date.parse(item.date_published);
+                            var date_s = new Date(d).toISOString().substr(0, 10);
+                            var date_node = document.createTextNode(date_s);
+                            link_node.appendChild(date_node);
+                            link_node.href = item.url;
+                            var title_node = null;
+    
+                            if (item.title.length > 0) {
+                                title_node = document.createElement("span");
+                                title_node.innerHTML = ": <b>" + item.title + "</b>";
+                            }
+    
+                            var s = item.content_text;
+    
+                            if (s.length > 200) {
+                                s = s.substr(0, 200) + "...";
+                            }
+    
+                            var text_node = document.createElement("span");
+                            text_node.innerHTML = ": " + s;
+    
+                            p_node.appendChild(link_node);
+    
+                            if (title_node != null) {
+                                p_node.appendChild(title_node);
+                            }
+    
+                            p_node.appendChild(text_node);
+                            results_node.appendChild(p_node);
+    
+                            
+                            resultCount++;
+    
+                            
+                            resultsFound = true;
+    
+                            
+                            if (resultCount >="5") {
+                                break;
+                            }
+                        }
+                    }
+    
+                    
+                    if (resultsFound) {
+                        results_node.style.display = "block";
+                    } else {
+                        results_node.style.display = "none";
+                    }
+                } else {
+                    results_node.style.display = "none"; 
+                }
+            }
+    
+            function submitSearch(q) {
+                runSearch(q);
+    
+                const url = new URL(window.location.href);
+                url.searchParams.set("q", q);
+                history.pushState({}, "", url);
+            }
+    
+            document.addEventListener("DOMContentLoaded", function() {
+                fetch("/archive/index.json")
+                    .then(response => response.json())
+                    .then(data => {
+                        archive_results = data;
+    
+                        const url = window.location.href;
+                        const params = new URLSearchParams(new URL(url).search);
+                        const q = params.get("q");
+    
+                        if (q && q.length > 0) {
+                            document.getElementById("input_search").value = q;
+                            runSearch(q);
+                        }
+                    });
+            });
+    
+        
+    </script>
+    
+    <style>
+    
+    #search {
+        display: none;
+    }
+    
+    #list_results {
+        display: none;
+    }
+    
+    
+    .field {
+        width: 100%;
+        height: 34px;
+        border: 2px solid #eee;
+        padding-left: 10px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border-radius: 11px;
+    }
+    
+    #list_results {
+        z-index: 10 !important;
+        padding: 2rem;
+        border-radius: 11px;
+        box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    
+    }
+    
+    </style>
+    
+    <form onSubmit="return false;">
+        <input class="field" type="text" name="q" id="input_search" placeholder="Search" onChange="submitSearch(this.value.toLowerCase());" />
+    </form>
+    
+    <div id="list_results"></div>
+    </p>
 <p>Copyright 2002-2024 ©️ Christopher Turner</p>
 </center>
 
