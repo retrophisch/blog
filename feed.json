@@ -52,85 +52,49 @@
 				"tags": ["fun","movie"]
 			},
 			{
-				"id": "http://retrophisch.micro.blog/2023/02/11/this-is-incredible.html",
-				
-				"content_html": "<p>This is incredible and awesome.</p>\n<p>Bohemian Rhapsody on the world&rsquo;s largest pipe organ:</p>\n<!-- raw HTML omitted -->\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/uHLRgvNh6Lk\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
-				"content_text": "This is incredible and awesome.\n\nBohemian Rhapsody on the world's largest pipe organ:\n\n<!-- [youtu.be/uHLRgvNh6...](https://youtu.be/uHLRgvNh6Lk) -->\n{{< youtube uHLRgvNh6Lk >}}\n",
-				"date_published": "2023-02-11T11:40:10-05:00",
-				"url": "https://retrophisch.net/2023/02/11/this-is-incredible.html",
-				"tags": ["music","video"]
-			},
-			{
-				"id": "http://retrophisch.micro.blog/2023/02/10/finished-bill-schweigarts.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Finished Bill Schweigart’s “The Guilty One.” Solid cop thriller, excellent pacing.</p>\n<p>And then that third act. Hoo boy.</p>\n<p>There are writers who are great at ratcheting up the tension, &amp; then there are writers like Bill who just push the pedal all the way to the floor. Buy this book!\n📚\n<a href=\"http://www.amazon.com/dp/1639102469/retrophisch-20\">www.amazon.com/dp/163910…</a></p>\n",
-				"date_published": "2023-02-10T22:31:39-05:00",
-				"url": "https://retrophisch.net/2023/02/10/finished-bill-schweigarts.html",
-				"tags": ["books"]
-			},
-			{
-				"id": "http://retrophisch.micro.blog/2023/02/04/amazon-really-needs.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>Amazon really needs to have profiles for accounts, like Netflix or Hulu, so that the stuff my wife reads and listens to doesn’t affect my recommendations, which are radically different.</p>\n<p>Cue all the thoughtless replies of “Why doesn’t she get her own Amazon account?”</p>\n",
-				"date_published": "2023-02-04T17:18:45-05:00",
-				"url": "https://retrophisch.net/2023/02/04/amazon-really-needs.html",
-				"tags": ["tech"]
-			},
-			{
-				"id": "http://retrophisch.micro.blog/2023/02/03/this-is-fantastic.html",
-				
-				"content_html": "<p>This is fantastic. Nina&rsquo;s art is stunning. That burning bush!\nAnd using the great Satchmo to boot.</p>\n<!-- raw HTML omitted -->\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/rp2WdyeAHIM\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
-				"content_text": "This is fantastic. Nina's art is stunning. That burning bush!\nAnd using the great Satchmo to boot.\n<!-- [youtu.be/rp2WdyeAH...](https://youtu.be/rp2WdyeAHIM)-->\n{{< youtube rp2WdyeAHIM >}}\n",
-				"date_published": "2023-02-03T23:13:19-05:00",
-				"url": "https://retrophisch.net/2023/02/03/this-is-fantastic.html",
-				"tags": ["God","music","video","Bible","faith"]
-			},
-			{
-				"id": "http://retrophisch.micro.blog/2014/05/23/gallery-starwars-spotlight.html",
+				"id": "http://retrophisch.micro.blog/2014/06/06/gallery-laughingsquid-special.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><a href=\"http://starwars.tumblr.com/post/86455346048/spotlight-of-the-week-bespin\" class=\"tumblr_blog\" target=\"_blank\">starwars</a>:</p>\n\n<blockquote><p>Spotlight Of The Week - Bespin</p></blockquote>\n\n<img src=\"https://retrophisch.micro.blog/uploads/2022/b2380e37e4.jpg\" /> \n",
-				"date_published": "2014-05-23T10:00:07-05:00",
-				"url": "https://retrophisch.net/2014/05/23/gallery-starwars-spotlight.html",
+				"content_text": "<p><a href=\"http://links.laughingsquid.com/post/87010028284/special-effects-artist-rick-baker-reveals-creature\" class=\"tumblr_blog\" target=\"_blank\">laughingsquid</a>:</p>\n\n<blockquote><p><a href=\"http://laughingsquid.com/special-effects-artist-rick-baker-reveals-creature-designs-for-abandoned-pre-e-t-spielberg-project/\" target=\"_blank\">Special Effects Artist Rick Baker Reveals Creature Designs for Abandoned Pre-’E.T.’ Spielberg Project</a></p></blockquote>\n\n<img src=\"uploads/2022/304eb5f725.jpg\" /> \n",
+				"date_published": "2014-06-06T11:40:11-05:00",
+				"url": "https://retrophisch.net/2014/06/06/gallery-laughingsquid-special.html",
+				"tags": ["Tumblr","art"]
+			},
+			{
+				"id": "http://retrophisch.micro.blog/2014/05/27/gallery-starwars-mcquarrie.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"http://starwars.tumblr.com/post/86908448198/mcquarrie-monday-yeah-were-acutally-pretty\" class=\"tumblr_blog\" target=\"_blank\">starwars</a>:</p>\n\n<blockquote><p>McQuarrie Monday - Yeah… We’re acutally pretty happy this giant spider-thing didn’t make the final cut.</p></blockquote>\n\n<img src=\"uploads/2022/c8a36934c7.jpg\" /> \n",
+				"date_published": "2014-05-27T23:56:13-05:00",
+				"url": "https://retrophisch.net/2014/05/27/gallery-starwars-mcquarrie.html",
 				"tags": ["Star Wars","Tumblr","art"]
 			},
 			{
-				"id": "http://retrophisch.micro.blog/2013/10/03/gallery-many-glacier.html",
+				"id": "http://retrophisch.micro.blog/2014/01/28/gallery-starwars-one.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><a href=\"http://www.flickr.com/photos/moontrippers/9663981903/\" title=\"many glacier sunrise 9896 - Explored\" target=\"_blank\">many glacier sunrise 9896 - Explored</a> by <a href=\"http://www.flickr.com/photos/moontrippers/\" target=\"_blank\">Light of the Moon Photography</a> on Flickr.</p>\n\n<img src=\"https://retrophisch.micro.blog/uploads/2022/14aea36087.jpg\" /> \n",
-				"date_published": "2013-10-03T12:00:19-05:00",
-				"url": "https://retrophisch.net/2013/10/03/gallery-many-glacier.html",
-				"tags": ["photo","Tumblr","hotel","nature"]
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"http://starwars.tumblr.com/post/72486855622/one-of-kilian-plunketts-concepts-for-the-ghost\" class=\"tumblr_blog\" target=\"_blank\">starwars</a>:</p>\n\n<blockquote><p>One of Kilian Plunkett’s concepts for the Ghost, our protagonists’ ship in Star Wars Rebels.</p></blockquote>\n\n<p>Someone’s clearly a fan of World War II-era bombers.</p>\n\n<img src=\"uploads/2022/55fa4eb7be.jpg\" />\n",
+				"date_published": "2014-01-28T14:40:22-05:00",
+				"url": "https://retrophisch.net/2014/01/28/gallery-starwars-one.html",
+				"tags": ["Star Wars","Tumblr","art"]
 			},
 			{
-				"id": "http://retrophisch.micro.blog/2013/09/18/gallery-the-tatra.html",
+				"id": "http://retrophisch.micro.blog/2013/10/05/gallery-poniesetc-original.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><a href=\"http://www.flickr.com/photos/dwieclawski/8350494532/\" title=\"The Tatra mountains\" target=\"_blank\">The Tatra mountains</a> by <a href=\"http://www.flickr.com/photos/dwieclawski/\" target=\"_blank\">Dariusz Wieclawski</a> on Flickr.</p>\n\n<img src=\"https://retrophisch.micro.blog/uploads/2022/86391c642c.jpg\" /> \n",
-				"date_published": "2013-09-18T12:00:25-05:00",
-				"url": "https://retrophisch.net/2013/09/18/gallery-the-tatra.html",
-				"tags": ["photo","Tumblr","nature"]
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --></p>\n",
+				"content_text": "<p><a class=\"tumblr_blog\" href=\"http://poniesetc.tumblr.com/post/61323990929/original-concept-art-for-star-wars-by-ralph\" target=\"_blank\">poniesetc</a>:</p>\n\n<blockquote>\n<p>Original concept art for Star Wars by Ralph McQuarrie.</p>\n</blockquote>\n\n<img src=\"uploads/2022/c8dd4ca108.jpg\" /> <img src=\"uploads/2022/93ed30fdcb.jpg\" /> <img src=\"uploads/2022/c39f56b7d1.jpg\" /> <img src=\"uploads/2022/70a00d7ab9.jpg\" /> <img src=\"uploads/2022/9ea1324801.jpg\" /> <img src=\"uploads/2022/433ce07018.jpg\" /> \n",
+				"date_published": "2013-10-05T12:00:25-05:00",
+				"url": "https://retrophisch.net/2013/10/05/gallery-poniesetc-original.html",
+				"tags": ["Star Wars","Tumblr","art"]
 			},
 			{
-				"id": "http://retrophisch.micro.blog/2013/09/17/gallery-atardecer-en.html",
+				"id": "http://retrophisch.micro.blog/2011/10/07/vimeo-w-h.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><a href=\"http://www.flickr.com/photos/jmmorahu/8642614535/\" title='Atardecer en el Puente de \"El Vigía\", Mazagón, Huelva (2)' target=\"_blank\">Atardecer en el Puente de “El Vigía”, Mazagón, Huelva (2)</a> by <a href=\"http://www.flickr.com/photos/jmmorahu/\" target=\"_blank\">jmmorahu</a> on Flickr.</p>\n\n<img src=\"uploads/2022/51867c90d1.jpg\" /> \n",
-				"date_published": "2013-09-17T12:00:25-05:00",
-				"url": "https://retrophisch.net/2013/09/17/gallery-atardecer-en.html",
-				"tags": ["photo","Tumblr","nature"]
-			},
-			{
-				"id": "http://retrophisch.micro.blog/2013/02/11/gallery-and-the.html",
-				
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p><a href=\"http://www.flickr.com/photos/10104652@N06/8374212107/\" title=\"\"And the Force? Well that's just midichlorians in your bloodstream.\"\" target=\"_blank\">“And the Force? Well that’s just midichlorians in your bloodstream.”</a> by <a href=\"http://www.flickr.com/photos/10104652@N06/\" target=\"_blank\">Shannon Ocean</a> on Flickr.</p>\n\n<p>I love this one for the dialogue.<br /><br />\n(The LEGO set work is impressive, too.)</p>\n\n<img src=\"https://retrophisch.micro.blog/uploads/2022/4ebe6c8702.jpg\" /> \n",
-				"date_published": "2013-02-11T11:00:29-05:00",
-				"url": "https://retrophisch.net/2013/02/11/gallery-and-the.html",
-				"tags": ["photo","Star Wars","Tumblr","LEGO"]
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>[vimeo 30113757 w=250 h=141]</p>\n\n<p>On October 4, 2011, I went with some friends to see <a href=\"http://frank-turner.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Frank Turner</a> at The Loft in Dallas. We’d discovered Frank the year before, when he was one of the opening acts for Social Distortion, and he put on a great show. Then we dove into his music and fell in love with it.</p>\n\n<p>So when Frank got his own headlining tour, we got tickets as soon as was possible.</p>\n\n<p>Frank’s best-known song is “<a href=\"http://itunes.apple.com/us/album/photosynthesis/id317500956?i=317501094\" target=\"_blank\" rel=\"noopener noreferrer\">Photosynthesis</a>” (iTunes link) and he closed the show with it. This is the edited cut, where I deleted about 5 minutes worth in the middle of the video, of introducing the band and ginning the crowd up.</p>\n\n<p>Please forgive the frequent out-of-focusing; the dim and changing lighting, not to mention the band’s motion on stage, made it difficult for my little Canon point-and-shoot.</p>\n\n<div class=\"attribution\">(<span>Source:</span> <a href=\"https://player.vimeo.com/\">https://player.vimeo.com/</a>)</div>\n",
+				"date_published": "2011-10-07T15:02:05-05:00",
+				"url": "https://retrophisch.net/2011/10/07/vimeo-w-h.html",
+				"tags": ["music","video","Tumblr"]
 			}
 	]
 }
